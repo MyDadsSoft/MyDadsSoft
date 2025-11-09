@@ -1,46 +1,44 @@
-# 👋 Hey — I'm MyDadsSoft
+<h2 align="left">Hi 👋! My name is MyDadsSoft and I'm a 19y/o from Scotland</h2>
 
-🧠 19 y/o developer | 💻 Coding since 2019 | 🎮 Modder • Maker • Builder
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MyDadsSoft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MyDadsSoft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🚀 About Me
-I started my tech journey back in **2019**, diving into **C++**, **C#**, **Java**, **HTML**, and **Python**.  
-Before long, I was jailbreaking iPhones (until **iOS 18** ended that chapter) and learning **reverse engineering** on the **Xbox 360** and **PS3** — that’s where my love for systems and code really started.
+###
 
-Now I’m focused on:
-- 🪟 Building **WPF applications** (desktop tools & utilities)
-- 🧩 Creating **mods for Minecraft** and other games/programs
-- ⚙️ Exploring **software architecture**, **reverse engineering**, and **creative coding**
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1059641894612774956/1432065948134936606/image.png?ex=69117f18&is=69102d98&hm=fef42921888f40f79f4fe3d085aa1e0eac3654d03f2a59ba9be7dc527b86a4a7&"  />
 
----
+###
 
-### 🧰 Tech Stack
-| Category | Tools / Languages |
-|-----------|-------------------|
-| 💬 Languages | C++, C#, Java, HTML, Python |
-| 🪟 Frameworks | .NET / WPF |
-| 🎮 Modding | Minecraft (Java), custom app modding |
-| 🧩 Interests | Reverse Engineering, Game Dev, Security Research |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
----
+###
 
-### 💡 Current Focus
-- Developing **WPF desktop apps** that make everyday workflows smoother  
-- Writing **mods** that expand gameplay and add new creative mechanics  
-- Turning old **reverse-engineering experience** into smarter, safer code design  
+<div align="left">
+  <a href="https://discordapp.com/users/805155042566209557" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
----
+###
 
-### ⚡ Fun Facts
-- I learned low-level coding by taking apart **Xbox 360** and **PS3** systems  
-- Used to jailbreak iPhones up through **iOS 17** — those were the days 😎  
-- I love blending **creativity with code** — if it’s tweakable, I’ll probably mod it  
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/MyDadsSoft/MyDadsSoft/output/snake.svg" alt="Snake animation" />
 
-### 📫 Connect With Me
-If you’re into **modding**, **reverse engineering**, or **.NET development**, hit me up —  
-I’m always down to collaborate or share knowledge.  
-
-> 💬 “Break it. Understand it. Rebuild it better.”
+###
